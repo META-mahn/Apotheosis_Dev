@@ -1,25 +1,31 @@
 {
-  "id": "a5e",
-  "name": "a5e",
-  "title": "Level Up: Advanced 5th Edition (Official)",
-  "description": "An official implementation of the Level Up: Advanced 5th Edition system for FoundryVTT.",
-  "version": "0.18.4",
-  "manifestPlusVersion": "1.2.0",
+  "id": "apoth",
+  "name": "apotheosis",
+  "title": "Apotheosis-Dev",
+  "description": "Test Branch for Apotheosis.",
+  "version": "0.0.1",
+  "manifestPlusVersion": "0.0.1",
   "authors": [
     {
-      "name": "Phillip Best",
-      "url": "https://bio.link/philbest",
-      "email": "me@phillip.best",
-      "discord": "philbest",
-      "ko-fi": "philbest",
-      "patreon": "ForgemasterModules"
+      "name": "META_mahn"
     },
     {
-      "name": "NekroDarkmoon",
-      "url": "https://github.com/NekroDarkmoon/",
-      "discord": "nekrodarkmoon",
-      "ko-fi": "nekrodarkmoon",
-      "patreon": "ForgemasterModules"
+      "name": "Burgmond3"
+    },
+    {
+      "name": "ZweiHawke"
+    },
+    {
+      "name": "Arbitrated"
+    },
+    {
+      "name": "ForumLurker"
+    },
+    {
+      "name": "Candle"
+    },
+    {
+      "name": "Acelgof"
     }
   ],
   "scripts": [],
